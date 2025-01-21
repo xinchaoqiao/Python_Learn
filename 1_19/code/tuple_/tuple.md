@@ -11,6 +11,4 @@ tuple(List1,List2)
 
 ## 总结
 
-![image.png]()
-
 ![image.png](assets/image.png?t=1737311951533)
